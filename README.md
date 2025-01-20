@@ -38,8 +38,8 @@ A modern iOS calculator implementation using SwiftUI, featuring a clean and intu
 ### General Setup
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone [[your-repository-url]](https://github.com/bradykuo/iOS-SwiftUI-Calculator)
+cd iOS-SwiftUI-Calculator
 ```
 
 2. Open the project:
