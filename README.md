@@ -1,10 +1,9 @@
-```markdown
 # iOS SwiftUI Calculator
 
 A modern iOS calculator implementation using SwiftUI, featuring a clean and intuitive user interface inspired by the native iOS calculator.
 
 <p align="center">
-  <img src="screenshots/calculator.png" width="300" alt="Calculator Screenshot">
+  <img src="calculator.png" width="300" alt="Calculator Screenshot">
 </p>
 
 ## Features
