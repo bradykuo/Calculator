@@ -137,6 +137,9 @@ Common issues and solutions:
    - Large number formatting supported
    - Decimal precision maintained
 
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
 ## License
 This project is available for academic and educational purposes.
 
